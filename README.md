@@ -1,4 +1,4 @@
-## :blossom: I’m minji. :blossom:
+## :blossom: 강민지입니다. :blossom:
 ## Studying & Tools:
 <div>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
